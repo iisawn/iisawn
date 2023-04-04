@@ -9,3 +9,7 @@ quero aprender um pouco de tudo rs . Conheci os cursos da Ebac pelo Instagram, a
 nem Detalhes
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=iisawn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+nem Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=iisawn&repo=&Projeto-Tik-Toktheme=dark)](https://github.com/anuraghazra/github-readme-stats)
