@@ -13,3 +13,7 @@ quero aprender um pouco de tudo rs . Conheci os cursos da Ebac pelo Instagram, a
 Project:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iisawn&repo=Projeto-Tik-Tok&theme=synthwave)](https://github.com/iisawn/Projeto-Tik-Tok)
+
+Linguages Utilization: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iisawn&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
