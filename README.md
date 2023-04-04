@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá 👋
 
-Olá, me chamo Isabella 
+Me chamo Isabella 
 
 Resido em Teresópolis, cidade localizada na região serrana no estado do Rio de Janeiro, atualmente estava trabalhando com marketing/publicidade, criando conteúdo e 
 planejamento de vários clientes renomados da minha cidade, mas meu sonho sempre foi ingressar para a área de TI, porem ainda não sei qual nicho nessa área seguir e já
